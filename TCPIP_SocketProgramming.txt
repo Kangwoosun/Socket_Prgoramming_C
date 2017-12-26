@@ -1,0 +1,13 @@
+Socket_Programming
+
+1.전화기를 준비합니다. (socket)
+2.전화국으로부터 전화번호를 부여받습니다. (bind)
+3.전화기도 있고 전화번호도 있으니, 전화가 오기만을 기다립니다. (listen)
+4.(전화를 기다리다 드디어 벨이 울리면) 전화를 받습니다. (accept)
+
+1.소켓 생성
+2.IP주소와 PORT번호 할당
+3.연결요청 가능상태로 변경
+4.연결요청에 대한 수락
+
+출처: http://rotapple.tistory.com/6 [rota inside]
